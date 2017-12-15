@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5D77F32C-A147-4CA9-9A2C-B7C0D8C9F266",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 73,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 11,
+  "masterInfluenceEdgeMaxYPadding": 13,
+  "masterInfluenceEdgeMinXPadding": 11,
+  "masterInfluenceEdgeMinYPadding": 9,
+  "name": "Pager_Header/Not_Favourited",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "289DFC37-A04F-4E3F-93A4-BA5A3BFE5B78_stringValue",
+      "value": "Science & environment"
+    }
+  ],
+  "overrides": {
+    "289DFC37-A04F-4E3F-93A4-BA5A3BFE5B78": "Science & environment"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "728CBF3F-CBB7-42BD-9174-52FC0809CC90",
+  "verticalSpacing": 0
+}

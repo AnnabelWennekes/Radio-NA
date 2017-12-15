@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "changeIdentifier": 2,
+  "do_objectID": "411FDE06-F7A1-4203-9772-96F1D8CF3195",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 290,
+    "x": 9385,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "C4553CD0-0BAF-424B-8121-37F93C3F1817"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EED7B1CD-55BB-4015-ACD2-A36BEDF3E271"
+    },
+    {
+      "class": "text",
+      "id": "B0B1D559-20DE-40C7-AAED-73794993C31B"
+    },
+    {
+      "class": "text",
+      "id": "C399F2CA-6B98-4FF6-92A9-1D76690D6ABA"
+    },
+    {
+      "class": "text",
+      "id": "0D6DBDC2-1877-4FAC-8573-50A55B653463"
+    },
+    {
+      "class": "group",
+      "id": "5BF95238-0C30-4F99-9AFF-B2D59222FAB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BFB155D0-B298-48A5-8DAB-0EB7FAFB9843"
+    }
+  ],
+  "name": "News_article/ Bookmarked",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "4F043FC0-2846-45D8-8874-DD918B7A6767",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

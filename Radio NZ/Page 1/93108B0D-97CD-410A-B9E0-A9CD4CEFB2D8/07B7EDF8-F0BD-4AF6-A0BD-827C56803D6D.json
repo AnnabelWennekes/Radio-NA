@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "07B7EDF8-F0BD-4AF6-A0BD-827C56803D6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 73,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 11,
+  "masterInfluenceEdgeMaxYPadding": 13,
+  "masterInfluenceEdgeMinXPadding": 11,
+  "masterInfluenceEdgeMinYPadding": 9,
+  "name": "Pager_Header/basic",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "082AAC20-518A-4E2F-B33A-63B3C18F3082_stringValue",
+      "value": "All topics"
+    }
+  ],
+  "overrides": {
+    "082AAC20-518A-4E2F-B33A-63B3C18F3082": "All topics"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "518FC499-9685-457C-BDBF-FC2D6A375885",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "7A4C92FC-E75A-499A-8DFD-037D999D246C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 140,
+    "width": 290,
+    "x": 15,
+    "y": 3733
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 83,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 0,
+  "masterInfluenceEdgeMinYPadding": 0,
+  "name": "News_article/Sub_title Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "B594B83A-7088-477B-B495-BCB3130983E5_symbolID",
+      "value": "6461C374-B448-4BBB-AAF3-98946FF5A6C9"
+    }
+  ],
+  "overrides": {
+    "B594B83A-7088-477B-B495-BCB3130983E5": {
+      "symbolID": "6461C374-B448-4BBB-AAF3-98946FF5A6C9"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "11FC086E-9596-48AC-B92B-1638EB29FEEF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi0wNjo+RkdISUpOUlpeYmVmaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QEUJvb2tzIGFuZCBBdXRob3Jz0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAGIAZXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVXTlNDb2xvclZOU0tlcm7WIyQlJgonKCkqKSwqWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACACSNANAAAAAAAAIAJgAvSEgouL6CACtIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIzNVhOU09iamVjdNIxMjc4XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNzk1XxAQTlNQYXJhZ3JhcGhTdHlsZdIKOzw9XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCj9CRaJAQYAOgA+iQ0SAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF1Db2xmYXgtTWVkaXVt0jEyS0xfEBNOU011dGFibGVEaWN0aW9uYXJ5o0tNNVxOU0RpY3Rpb25hcnnSMTJPUF8QEE5TRm9udERlc2NyaXB0b3KiUTVfEBBOU0ZvbnREZXNjcmlwdG9y1FNUVQpWV1hZVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYwIDAgMAAQAYAVgBfSWwpcXVROU0lEEAGAFtIxMl9gXE5TQ29sb3JTcGFjZaJhNVxOU0NvbG9yU3BhY2XSMTJjZFdOU0NvbG9yomM1IwAAAAAAAAAA0jEyTWeiTTXSMTJpal8QEk5TQXR0cmlidXRlZFN0cmluZ6JrNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFub1Ryb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQCZAKAAqACzALgAugC8AL4AwADFAMcAyQDLAM0AzwDiAQQBDAETASABKwE3AUkBVgFoAWoBbAF1AXcBeQF+AX8BgQGGAZEBmgGiAaUBrgGzAc0B0QHkAekCBgIIAgoCEQIUAhYCGAIbAh0CHwIhAjcCTQJWAmQCaQJ/AoMCkAKVAqgCqwK+AscCzQLaAu8C9gL4AvoC/AMBAwYDCAMKAw8DHAMfAywDMQM5AzwDRQNKA00DUgNnA2oDfwORA5QDmQAAAAAAAAIBAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAOb"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "F866FC5B-DD6D-49FE-8478-2EED7FC92A8F",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 199,
+    "x": 91,
+    "y": 1
+  },
+  "glyphBounds": "{{1, 3}, {141, 13}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Music",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "AD5927B1-95CC-42AF-A40E-779BD4B31962"
+  },
+  "textBehaviour": 1
+}

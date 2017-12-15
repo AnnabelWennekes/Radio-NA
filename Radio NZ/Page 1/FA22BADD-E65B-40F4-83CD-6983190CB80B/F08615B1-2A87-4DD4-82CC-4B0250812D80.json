@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F08615B1-2A87-4DD4-82CC-4B0250812D80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 302,
+    "width": 290,
+    "x": 15,
+    "y": 88
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 274,
+  "masterInfluenceEdgeMaxYPadding": 0,
+  "masterInfluenceEdgeMinXPadding": 15,
+  "masterInfluenceEdgeMinYPadding": 10,
+  "name": "Lead Article/ Bookmarked",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "853E617D-E0ED-4105-8AA4-D16C5FD01EDC_stringValue",
+      "value": "Forest & Bird quits water forum"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "B23E51AA-1985-4FB3-9B84-8C22C6500B8D_image",
+      "value": {
+        "_class": "MSJSONFileReference",
+        "_ref": "images/0a8e1161a173b458a1f67db0f73215f30fbaa6bd",
+        "_ref_class": "MSImageData"
+      }
+    }
+  ],
+  "overrides": {
+    "853E617D-E0ED-4105-8AA4-D16C5FD01EDC": "Forest & Bird quits water forum",
+    "B23E51AA-1985-4FB3-9B84-8C22C6500B8D": {
+      "_class": "MSJSONFileReference",
+      "_ref": "images/0a8e1161a173b458a1f67db0f73215f30fbaa6bd",
+      "_ref_class": "MSImageData"
+    }
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "901D7AA0-5719-4766-8B36-0771F2649F0D",
+  "verticalSpacing": 0
+}

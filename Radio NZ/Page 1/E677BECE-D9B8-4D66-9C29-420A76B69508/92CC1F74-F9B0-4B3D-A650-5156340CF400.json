@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi0wNjo+RkdISUpOUlpeYmVmaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QO1Byb2Zlc3NvciBNYXJ0eW4gR291bGRpbmc6IHRoZSBteXN0ZXJpZXMgb2YgdGhlIHNwaW5hbCBjb3Jk0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAGIAZXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVXTlNDb2xvclZOU0tlcm7WIyQlJgonKCkqKSwqWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACACSNANAAAAAAAAIAJgAvSEgouL6CACtIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIzNVhOU09iamVjdNIxMjc4XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNzk1XxAQTlNQYXJhZ3JhcGhTdHlsZdIKOzw9XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCj9CRaJAQYAOgA+iQ0SAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF1Db2xmYXgtTWVkaXVt0jEyS0xfEBNOU011dGFibGVEaWN0aW9uYXJ5o0tNNVxOU0RpY3Rpb25hcnnSMTJPUF8QEE5TRm9udERlc2NyaXB0b3KiUTVfEBBOU0ZvbnREZXNjcmlwdG9y1FNUVQpWV1hZVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYwIDAgMAAQAYAVgBfSWwpcXVROU0lEEAGAFtIxMl9gXE5TQ29sb3JTcGFjZaJhNVxOU0NvbG9yU3BhY2XSMTJjZFdOU0NvbG9yomM1IwAAAAAAAAAA0jEyTWeiTTXSMTJpal8QEk5TQXR0cmlidXRlZFN0cmluZ6JrNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFub1Ryb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQDDAMoA0gDdAOIA5ADmAOgA6gDvAPEA8wD1APcA+QEMAS4BNgE9AUoBVQFhAXMBgAGSAZQBlgGfAaEBowGoAakBqwGwAbsBxAHMAc8B2AHdAfcB+wIOAhMCMAIyAjQCOwI+AkACQgJFAkcCSQJLAmECdwKAAo4CkwKpAq0CugK/AtIC1QLoAvEC9wMEAxkDIAMiAyQDJgMrAzADMgM0AzkDRgNJA1YDWwNjA2YDbwN0A3cDfAORA5QDqQO7A74DwwAAAAAAAAIBAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAPF"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "92CC1F74-F9B0-4B3D-A650-5156340CF400",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 245,
+    "x": 63,
+    "y": 1259
+  },
+  "glyphBounds": "{{1, 3}, {232, 35}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Professor Martyn Gou",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "AD5927B1-95CC-42AF-A40E-779BD4B31962"
+  },
+  "textBehaviour": 1
+}

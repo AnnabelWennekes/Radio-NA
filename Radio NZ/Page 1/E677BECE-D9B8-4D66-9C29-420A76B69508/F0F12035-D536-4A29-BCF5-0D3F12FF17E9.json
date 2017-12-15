@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi0wNjo+RkdISUpOUlpeYmVmaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QMkZsb29kaW5nIGluIEF1Y2tsYW5kIGFuZCB0aGUgQ29yb21hbmRlbCBQZW5pbnN1bGFy0xESChMYHVdOUy5rZXlzWk5TLm9iamVjdHOkFBUWF4AEgAWABoAHpBkaGxyACIAMgBSAGIAZXxAQTlNQYXJhZ3JhcGhTdHlsZV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGVXTlNDb2xvclZOU0tlcm7WIyQlJgonKCkqKSwqWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACACSNANAAAAAAAAIAJgAvSEgouL6CACtIxMjM0WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIzNVhOU09iamVjdNIxMjc4XxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjNzk1XxAQTlNQYXJhZ3JhcGhTdHlsZdIKOzw9XxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAE4AN0xESCj9CRaJAQYAOgA+iQ0SAEIARgBJfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF1Db2xmYXgtTWVkaXVt0jEyS0xfEBNOU011dGFibGVEaWN0aW9uYXJ5o0tNNVxOU0RpY3Rpb25hcnnSMTJPUF8QEE5TRm9udERlc2NyaXB0b3KiUTVfEBBOU0ZvbnREZXNjcmlwdG9y1FNUVQpWV1hZVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYwIDAgMAAQAYAVgBfSWwpcXVROU0lEEAGAFtIxMl9gXE5TQ29sb3JTcGFjZaJhNVxOU0NvbG9yU3BhY2XSMTJjZFdOU0NvbG9yomM1IwAAAAAAAAAA0jEyTWeiTTXSMTJpal8QEk5TQXR0cmlidXRlZFN0cmluZ6JrNV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFub1Ryb290gAEACAARABoAIwAtADIANwBVAFsAYgBrAHIAfwCBAIMAhQC6AMEAyQDUANkA2wDdAN8A4QDmAOgA6gDsAO4A8AEDASUBLQE0AUEBTAFYAWoBdwGJAYsBjQGWAZgBmgGfAaABogGnAbIBuwHDAcYBzwHUAe4B8gIFAgoCJwIpAisCMgI1AjcCOQI8Aj4CQAJCAlgCbgJ3AoUCigKgAqQCsQK2AskCzALfAugC7gL7AxADFwMZAxsDHQMiAycDKQMrAzADPQNAA00DUgNaA10DZgNrA24DcwOIA4sDoAOyA7UDugAAAAAAAAIBAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAO8"
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "F0F12035-D536-4A29-BCF5-0D3F12FF17E9",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 245,
+    "x": 63,
+    "y": 544
+  },
+  "glyphBounds": "{{0, 3}, {219, 33}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Flooding in Auckland",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "AD5927B1-95CC-42AF-A40E-779BD4B31962"
+  },
+  "textBehaviour": 1
+}

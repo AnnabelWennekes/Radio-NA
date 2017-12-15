@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "44898FF1-E905-4CB4-B274-6AE78D9CF903",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 183,
+    "width": 404,
+    "x": 15,
+    "y": 2364
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 11,
+  "masterInfluenceEdgeMaxYPadding": 10,
+  "masterInfluenceEdgeMinXPadding": 10,
+  "masterInfluenceEdgeMinYPadding": 10,
+  "name": "Belt_Content/basic Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C6C4F33E-8835-4140-BE58-0C865DFA1CDD_stringValue",
+      "value": "The Reading"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "114D9452-BDD1-4A8F-8239-F97046B414AE_stringValue",
+      "value": "Children's Treasure Chest"
+    }
+  ],
+  "overrides": {
+    "114D9452-BDD1-4A8F-8239-F97046B414AE": "Children's Treasure Chest",
+    "C6C4F33E-8835-4140-BE58-0C865DFA1CDD": "The Reading"
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "F1852DC4-C99B-4A41-9A33-B367B0E5A137",
+  "verticalSpacing": 0
+}

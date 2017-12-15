@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIi0wNjo+RkdISUpOUlpeYmVmaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA18QKENvdW50ZG93biBwbGVkZ2VzIHRvICdtYWtlIHRoaW5ncyByaWdodCfTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAYgBlfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZVdOU0NvbG9yVk5TS2VybtYjJCUmCicoKSopLCpaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAJI0A0AAAAAAAAgAmAC9ISCi4voIAK0jEyMzRaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojM1WE5TT2JqZWN00jEyNzhfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM3OTVfEBBOU1BhcmFncmFwaFN0eWxl0go7PD1fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKP0JFokBBgA6AD6JDRIAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAXUNvbGZheC1NZWRpdW3SMTJLTF8QE05TTXV0YWJsZURpY3Rpb25hcnmjS001XE5TRGljdGlvbmFyedIxMk9QXxAQTlNGb250RGVzY3JpcHRvcqJRNV8QEE5TRm9udERlc2NyaXB0b3LUU1RVClZXWFlVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlRjAgMCAwABABgBWAF9JbClxdVE5TSUQQAYAW0jEyX2BcTlNDb2xvclNwYWNlomE1XE5TQ29sb3JTcGFjZdIxMmNkV05TQ29sb3KiYzUjAAAAAAAAAADSMTJNZ6JNNdIxMmlqXxASTlNBdHRyaWJ1dGVkU3RyaW5noms1XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W5vVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFALAAtwC/AMoAzwDRANMA1QDXANwA3gDgAOIA5ADmAPkBGwEjASoBNwFCAU4BYAFtAX8BgQGDAYwBjgGQAZUBlgGYAZ0BqAGxAbkBvAHFAcoB5AHoAfsCAAIdAh8CIQIoAisCLQIvAjICNAI2AjgCTgJkAm0CewKAApYCmgKnAqwCvwLCAtUC3gLkAvEDBgMNAw8DEQMTAxgDHQMfAyEDJgMzAzYDQwNIA1ADUwNcA2EDZANpA34DgQOWA6gDqwOwAAAAAAAAAgEAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA7I="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "AE215E76-9B17-4AE9-9CA8-5A55619A8DFA",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 245,
+    "x": 63,
+    "y": 650.9402985074627
+  },
+  "glyphBounds": "{{0, 3}, {219, 35}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Countdown pledges to",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "AD5927B1-95CC-42AF-A40E-779BD4B31962"
+  },
+  "textBehaviour": 1
+}
